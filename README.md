@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aryan Musmade 👋
 
-<!--
-**aryanmusmade5-dev/aryanmusmade5-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL • Power BI • Excel • Python
 
-Here are some ideas to get you started:
+I'm a **Data Analyst** focused on using data to uncover insights, understand business performance, and support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **SQL** — Data querying, joins, CTEs, subqueries, aggregations
+- **Power BI** — Dashboards, DAX, Power Query, data modeling
+- **Excel** — Data analysis, Pivot Tables, XLOOKUP, Power Query
+- **Python** — Pandas, NumPy, Matplotlib, Seaborn
+- **Data Analysis** — Data cleaning, EDA, KPI analysis, visualization
+- **Git & GitHub** — Version control and portfolio management
+
+## 📊 Areas of Interest
+
+- Business & Data Analytics
+- Business Intelligence
+- Data Visualization
+- KPI & Performance Analysis
+- Customer & Sales Analytics
+- Exploratory Data Analysis
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Advanced Power BI & DAX
+- Python for Data Analytics
+- Statistics
+- Data Modeling
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/contact-aryanmusmadee)
+- 📧 [Email](mailto:aryanmusmade75@gmail.com)
+
+---
+
+**Turning data into meaningful insights. 📊**
